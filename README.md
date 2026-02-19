@@ -18,11 +18,6 @@ I am a results-driven **Senior Full-Stack Engineer** specializing in building sc
 - Optimizing distributed systems for high-load environments.
 - Exploring the intersection of Web3 and decentralized identity.
 
-### 📈 GitHub Stats
-
-![i2you's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i2you&show_icons=true&theme=transparent)
-![i2you's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i2you&layout=compact&theme=transparent)
-
 ---
 
 *“Code is poetry, but performance is reality.”*
