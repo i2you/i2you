@@ -20,8 +20,8 @@ I am a results-driven **Senior Full-Stack Engineer** specializing in building sc
 
 ### 📈 Stats
 
-![i2you's GitHub stats](https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api?username=i2you&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/top-langs/?username=i2you&layout=compact&theme=radical)
+![i2you's GitHub stats](https://github-readme-stats.vercel.app/api?username=i2you&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i2you&layout=compact&theme=radical)
 
 ---
 
